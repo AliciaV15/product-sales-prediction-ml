@@ -101,7 +101,3 @@ The model provides:
 - Monthly performance comparison
 - Accuracy per product and per month
 - Error analysis (absolute and percentage)
-
-## 👤 Author
-
-Alicia Virreira
